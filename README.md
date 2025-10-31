@@ -1,7 +1,7 @@
 # Consumo Exchange Rate API
 
 Este proyecto es un conversor de divisas hecho en HTML, CSS y JavaScript.  
-Usa la API de Frankfurter para consultar tasas de cambio entre diferentes monedas.
+Usa la API de Exchange Rate API para consultar tasas de cambio entre diferentes monedas.
 
 ## Como funciona
 
@@ -19,7 +19,7 @@ y al hacer clic en el boton se muestra la tasa de cambio actual.
 - HTML  
 - CSS  
 - JavaScript  
-- API Frankfurter (https://api.frankfurter.app)
+- API Exchange Rate API (https://www.exchangerate-api.com/ )
 
 ## Ejemplo
 
